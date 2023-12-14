@@ -64,11 +64,6 @@ To make modifications to the Smart Contract or develop additional features, foll
 
 3. Deploy the updated contract to the desired Ethereum network.
 
-## Contributors
-
-- [Your Name]
-- [Another Contributor]
-
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
